@@ -14,22 +14,22 @@ Welcome to my GitHub repository
 
 ____________________________________________________________________________________________________________________________________________
 
-| __Skills__                      |
-| --------------------------------|
+| __Skills__                      |  __Proyects/Repos__              |                                       WEBAPS                          |
+| --------------------------------|  --------------------------------|                                      -------------------------------- |
+| |                                  
+| User Interface/User Experience  | [__Quizz__](https://github.com/Flavio3312/quizz)                    | [Pokemon Find](https://pokemonfinder-backend.herokuapp.com/pokemons) |
 | |
-| User Interface/User Experience  | 
+| Design Thinking                 | [__Pokemon Find__](https://github.com/Flavio3312/pokemons-find)     | [Quizz](https://flavioquizz.netlify.app/)|
 | |
-| Design Thinking                 |
+| Full Stack Web Development      | [__E-COMMERCE__](https://github.com/Flavio3312/poloTicEcommerce)    |
+| |               
+| Openshift                       | [__Alkemy Personal Expenses__](https://github.com/Flavio3312/Alkemy)|
 | |
-| Full Stack Web Development      |
+| Docker Container                | [__Web Scrap__](https://github.com/Flavio3312/WebScrap)             |
 | |
-| Openshift                       |
+| Python                          | [__Card__](https://github.com/Flavio3312/Card)                      |
 | |
-| Docker Container                |
-| |
-| Python                          |
-| |
-| Java                            |
+| Java                            | [__Pokemon Backend__](https://github.com/Flavio3312/pokemon-backend)|
 | |
 | MongoDB                         |
 | |
@@ -40,4 +40,6 @@ ________________________________________________________________________________
 | NodeJs                          |
 | |
 | React                           |
+
+
 
