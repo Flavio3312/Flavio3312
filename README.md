@@ -17,7 +17,7 @@ ________________________________________________________________________________
 | __Skills__                      |  __Proyects/Repos__              |                                       WEBAPS                          |
 | --------------------------------|  --------------------------------|                                      -------------------------------- |
 | |                                  
-| User Interface/User Experience  | [__Quizz__](https://github.com/Flavio3312/quizz)                    | [Pokemon Find](https://pokemonfinder-backend.herokuapp.com/pokemons) |
+| User Interface/User Experience  | [__Quizz__](https://github.com/Flavio3312/quizz)                    | [Pokemon Find](https://dreamy-mcclintock-212513.netlify.app/) |
 | |
 | Design Thinking                 | [__Pokemon Find__](https://github.com/Flavio3312/pokemons-find)     | [Quizz](https://flavioquizz.netlify.app/)|
 | |
