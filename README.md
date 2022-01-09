@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @Flavio3312
-- 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning Front and Back end
-- 💞️ 
-- 📫 How to reach me ... https://flavio3312.github.io/Card/
+Welcome to my GitHub repository
+================================
 
-<!---
-Flavio3312/Flavio3312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>*Hola a todos soy Flavio y me dedico al desarrollo de API´s para el desarrollo y mantenimiento de microservicios*.
+>
+>*Tambien trabajo en el desarrollo proyecots Web, Blockchain, Trading Bots, Web Scraping*
+
+> *Hello everyone, I am Flavio and I am dedicated to the development of APIs for the development and maintenance of microservices*.
+>
+> *I also work in the development of Web projects, Blockchain, Trading Bots, Web Scraping*
+
+![logo servicios](https://www.ilimit.com/wp-content/uploads/2021/07/bizdevops_devops.jpg)
+
+
+____________________________________________________________________________________________________________________________________________
+
+| __Skills__                      |
+| --------------------------------|
+| |
+| User Interface/User Experience  | 
+| |
+| Design Thinking                 |
+| |
+| Full Stack Web Development      |
+| |
+| Openshift                       |
+| |
+| Docker Container                |
+| |
+| Python                          |
+| |
+| Java                            |
+| |
+| MongoDB                         |
+| |
+| Oracle SQL                      |
+| |
+| JavaScript                      |
+| |
+| NodeJs                          |
+| |
+| React                           |
+
