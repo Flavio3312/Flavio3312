@@ -9,7 +9,7 @@ Welcome to my GitHub repository
 >
 > *I also work in the development of Web projects, Blockchain, Trading Bots, Web Scraping*
 
-![logo servicios](https://www.ilimit.com/wp-content/uploads/2021/07/bizdevops_devops.jpg)
+![logo servicios](https://miro.medium.com/v2/resize:fit:828/format:webp/1*dGGdN_2es8xQXzFbcUoabQ.png)
 
 
 ____________________________________________________________________________________________________________________________________________
