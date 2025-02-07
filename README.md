@@ -46,3 +46,8 @@ ________________________________________________________________________________
 
 | [Card](https://flavio3312.github.io/Card/) |[Linkedin](https://www.linkedin.com/in/flavio-perez-aa086491)|
 |------|--------|
+
+
+## Licencias y certificaciones
+
+<p align="center" dir="auto"><a href="https://github.com/Flavio3312/Flavio3312/tree/main/Certificados"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F13%2FGoogle-Logo-PNG-Photo-Image.png&f=1&nofb=1&ipt=b73716ac51c2f5c624febe7afb91d2d841e254432401bd25c8d757e29bfc6e37&ipo=images" width='100px'><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F09%2FIBM-Logo-1967-1972.png&f=1&nofb=1&ipt=a1e36af4b5b16308466b2192667f872be1780729348cb012893133abe0407e34&ipo=images" width='160px'></a> 
